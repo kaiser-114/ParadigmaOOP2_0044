@@ -11,3 +11,6 @@ public:
              << endl;
     }
 };
+
+class pekerja : virtual public orang
+{};
