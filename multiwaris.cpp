@@ -21,3 +21,6 @@ public:
              << endl;
     }
 };
+
+class pelajar : virtual public orang
+{};
