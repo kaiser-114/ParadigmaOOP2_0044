@@ -16,3 +16,6 @@ public:
         return saklarNo[i];
     }
 };
+
+int main()
+{}
