@@ -31,3 +31,6 @@ public:
              << endl;
     }
 };
+
+class budi : public pekerja, public pelajar
+{};
